@@ -4,11 +4,11 @@ http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=cf4e08e030323c91b7c
 #EXTINF:-1 type="stream" tvg-id="A Fazenda 11 [Alter]" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11 [Alter]
 http://load.kudaplay.tv/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
-http://load.kudaplay.tv/aovivo/SD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+http://load.kudaplay.tv/aovivo/SD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3.m3u8
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
-http://load.kudaplay.tv/aovivo/FHD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+http://load.kudaplay.tv/aovivo/FHD_AE/video.ts?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
-http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3.ts
 #EXTINF:-1 type="stream" tvg-id="A&E HD [Alter]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD [Alter]
 http://load.kudaplay.tv/aovivo/HD_AE_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
@@ -1037,4 +1037,4 @@ http://load.kudaplay.tv/aovivo/HD_WOOHOO/video.m3u8?token=cf4e08e030323c91b7cf8f
 http://load.kudaplay.tv/aovivo/HD_ZOOMOO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1 type="stream" tvg-id="i-Sat" tvg-logo="https://i.ibb.co/X74fJNy/isat.png" group-title="Filme e Serie",i-Sat
 http://load.kudaplay.tv/aovivo/SD_ISAT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
-.m3u8
+.ts
